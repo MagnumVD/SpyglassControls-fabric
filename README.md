@@ -1,9 +1,20 @@
-# Fabric Example Mod
+# SpyglassControls
 
-## Setup
+SpyglassControls is my first (useful) mod I created when I realized how bad the spyglass is implemented in MC.
+So this mod aims to fix that!
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Features:
+
+* Completely client-side
+* Lightweight
+* Smooth spyglass movement, similiar to the Optifine zoom
+* (Yeah, that's all for now, I plan to add more)
+
+## Versions and compatibility
+
+* Fabric
+* 1.19.X
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is licensed under the GNU LESSER GENERAL PUBLIC LICENSE.
