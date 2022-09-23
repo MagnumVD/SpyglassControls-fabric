@@ -17,4 +17,4 @@ So this mod aims to fix that!
 
 ## License
 
-This mod is licensed under the GNU LESSER GENERAL PUBLIC LICENSE.
+This mod is licensed under the GNU LESSER GENERAL PUBLIC LICENSE v3.0.
