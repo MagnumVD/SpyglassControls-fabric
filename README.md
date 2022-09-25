@@ -7,7 +7,7 @@ So this mod aims to fix that!
 
 * Completely client-side
 * Lightweight
-* Smooth spyglass movement, similiar to the Optifine zoom
+* Smooth spyglass movement, similar to the Optifine zoom
 * (Yeah, that's all for now, I plan to add more)
 
 ## Versions and compatibility
