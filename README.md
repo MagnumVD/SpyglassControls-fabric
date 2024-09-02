@@ -8,13 +8,14 @@ So this mod aims to fix that!
 * Completely client-side
 * Lightweight
 * Smooth spyglass movement, similar to the Optifine zoom
-* (Yeah, that's all for now, I plan to add more)
+* (Yeah, that's all for now, maybe I'll eventually add more)
 
 ## Versions and compatibility
 
 * Fabric
 * 1.19.X
+* 1.21.X
 
 ## License
 
-This mod is licensed under the GNU LESSER GENERAL PUBLIC LICENSE v3.0.
+This mod is licensed under the MIT LICENSE.
